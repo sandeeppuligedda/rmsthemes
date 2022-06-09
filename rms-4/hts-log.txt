@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Jun 2022 13:10:49 at https://preview.colorlib.com/theme/vacationrental/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.colorlib.com/theme/vacationrental/ -O1 "C:\My Web Sites\rms-4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:11:03	Error: 	"Bad Request" (400) at link https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z= (from https://preview.colorlib.com/theme/vacationrental/)
+13:11:06	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/vacationrental/room-single.html (from https://preview.colorlib.com/theme/vacationrental/)
+13:11:07	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/vacationrental/css/owl.video.play.png (from https://preview.colorlib.com/theme/vacationrental/css/animate.css+owl.carousel.min.css+owl.theme.default.min.css+magnific-popup.css+bootstrap-datepicker.css+jquery.timepicker.css+flaticon.css+style.css.pagespeed.cc.TncY36dScG.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 52 links scanned, 48 files written (4545116 bytes overall) [3797959 bytes received at 210997 bytes/sec], 1058574 bytes transferred using HTTP compression in 23 files, ratio 25%, 13.0 requests per connection
+(3 errors, 0 warnings, 0 messages)

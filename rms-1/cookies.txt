@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hendon.qodeinteractive.com	TRUE	/	FALSE	1999999999	ppwp_wp_session	9504d2e12e5fcd37c1b3a8bba63f74d9%7C%7C1654761239%7C%7C1654760879
+
