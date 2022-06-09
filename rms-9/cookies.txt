@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	FVZT5.IFL92yz_C7K_b0.tVv.CfYmCSYFjeqyQzXdMo-1654769829-0-AesaYCUgxIY1cA4JQHTJVgB+nrdu8/a5eSI6ENkGkeYYe+mdQ03072XMrr97GkuKCvoHiFYAxUAw2IKM/qql0xs=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+sagen.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+sagen.qodeinteractive.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_1917d28af1b6ce8e5519e1798fb08aef	f59d569287e85fb3c4f5be448f7478fc%7C%7C1654942935%7C%7C1654939335%7C%7C8b525887b3de767e6a20ac60e4645efc
+sagen.qodeinteractive.com	TRUE	/	FALSE	1999999999	ppwp_wp_session	f414ca1a147fdccb522177a93d214f8c%7C%7C1654771496%7C%7C1654771136
+sagen.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	fe15f5e81065e683045f2feea86d9dac
+
